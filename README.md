@@ -10,7 +10,10 @@
 
 🥺 Would love to collaborate on Rails, Drupal, Symfony, or Flutter projects
 
-📫 Contact me via Mastodon @pixiekat@tech.lgbt, Matrix @cupcakezealot:matrix.org or Discord (devilishseraph#8433)
+## Get in Touch
+- 📫 Mastodon [@pixiekat@tech.lgbt](https://tech.lgbt/@pixiekat)
+- 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
+- 📫 Discord devilishseraph#8433
 
 <!---
 pixiekat/pixiekat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
