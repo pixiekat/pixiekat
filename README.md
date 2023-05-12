@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Katherine Elizabeth, or @pixiekat
-- 👀 I’m interested in knitting, gardening, sewing, renn faires, and cosplay
-- 🌱 I’m currently learning Flutter, React, Rust, and Rails
-- 💞️ I’m looking to collaborate on open source social projects?
-- 📫 How to reach me ...
+- 👀 I love steampunk, cosplay, sewing, reading, and theatre tech
+- 🐈 I have two cats, Callie the Calico and Winnie the Tortoiseshell.
+- 🌱 I’m currently learning Flutter, React, Rust, Dart, and Rails
+- 💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design
+- 🥺 Would love to collaborate on Rails, Drupal, Symfony, or Flutter projects
+- 📫 Contact me via Matrix: @cupcakezealot:matrix.org or Discord: devilishseraph#8433
 
 <!---
 pixiekat/pixiekat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
