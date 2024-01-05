@@ -12,7 +12,6 @@
 
 ## Get in Touch
 - 📫 Mastodon [@pixiekat@tech.lgbt](https://tech.lgbt/@pixiekat)
-- 📫 Mastodon [@cupcakezealot@twit.social](https://twit.social/@cupcakezealot)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
 - 📫 Discord devilishseraph#8433
 
