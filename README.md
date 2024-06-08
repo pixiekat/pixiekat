@@ -4,6 +4,10 @@
 
 🐈 I have two cats, Callie the Calico and Winnie the Tortoiseshell.
 
+🎓 I started web design in AOL Pages and Geocities in the mid ninties.
+
+♟️ I'm proficient in PHP, Drupal (5+), Symfony, and Rails
+
 🌱 I’m currently learning Flutter, React, Rust, Dart, and Rails
 
 💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design
@@ -11,6 +15,7 @@
 🥺 Would love to collaborate on Rails, Drupal, Symfony, or Flutter projects
 
 ## Get in Touch
+- 📫 Bluesky [@netkitten.net](https://bsky.app/profile/netkitten.net)
 - 📫 Mastodon [@pixiekat@tech.lgbt](https://tech.lgbt/@pixiekat)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
 - 📫 Discord devilishseraph#8433
