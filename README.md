@@ -10,9 +10,9 @@
 
 ♟️ I'm proficient in PHP, Drupal (5+), Symfony, and Rails
 
-🌱 I’m currently learning Flutter, React, Rust, Dart, Chrome Development, and Rails
+🌱 I’m currently learning Flutter, React, Rust, Dart, Web Extension Development, and Rails
 
-💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design
+💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design. I support open web standards and the not for profit internet. Mozilla and Firefox supporter now, Netscape supporter then..
 
 🥺 Would love to collaborate on Rails, Drupal, Symfony, or Flutter projects
 
