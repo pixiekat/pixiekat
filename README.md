@@ -26,7 +26,7 @@
 
 ## Get in Touch
 
-- 📫 Bluesky [@netkitten.net](https://bsky.app/profile/webkitten.bsky.social)
+- 📫 Bluesky [@webkitten.bsky.social](https://bsky.app/profile/webkitten.bsky.social)
 - 📫 Mastodon [@webkitten@tech.lgbt](https://tech.lgbt/@webkitten)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
 - 📫 Discord devilishseraph#8433
