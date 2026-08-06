@@ -10,6 +10,8 @@
 
 ♟️ I'm proficient in PHP, Drupal (5+), Symfony, and Rails
 
+🖥️ Currently on Linux Mint with `kde-standard` with Sugar Candy SDDM. Love Debian, though. Haven't tried Arch yet, btw.
+
 🌱 I’m currently learning Flutter, React, Rust, Dart, Web Extension Development, and Rails
 
 💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design. I support open web standards and the not for profit internet. Mozilla and Firefox supporter now, Netscape supporter then.
