@@ -12,15 +12,20 @@
 
 🌱 I’m currently learning Flutter, React, Rust, Dart, Web Extension Development, and Rails
 
-💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design. I support open web standards and the not for profit internet. Mozilla and Firefox supporter now, Netscape supporter then..
+💞️ I love ethnical tech, A11y inspired designs, graceful degradation, and UX design. I support open web standards and the not for profit internet. Mozilla and Firefox supporter now, Netscape supporter then.
 
 🥺 Would love to collaborate on Rails, Drupal, Symfony, or Flutter projects
 
-✈️ I want to live in Japan or Norway someday
+✈️ I want to live in Japan, Shetland, or Norway someday
+
+📚️ Owning a bookshop in Montreal would be ideal
+
+🪴 I have an unhealthy obsession with houseplants
 
 ## Get in Touch
-- 📫 Bluesky [@netkitten.net](https://bsky.app/profile/netkitten.net)
-- 📫 Mastodon [@pixiekat@tech.lgbt](https://tech.lgbt/@pixiekat)
+
+- 📫 Bluesky [@netkitten.net](https://bsky.app/profile/webkitten.bsky.social)
+- 📫 Mastodon [@webkitten@tech.lgbt](https://tech.lgbt/@webkitten)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
 - 📫 Discord devilishseraph#8433
 
