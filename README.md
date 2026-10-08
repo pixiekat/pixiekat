@@ -28,9 +28,13 @@ standards and the not for profit internet. Mozilla and Firefox supporter now, Ne
 
 🪴 I have an unhealthy obsession with houseplants
 
+📚️ I have been LARP since the 90s, I have been playing AD&D since 3rd grade, I have been actively RPing in
+World of Warcraft since 2006.
+
 ## Get in Touch
 
-- 📫 Bluesky [@webkitten.bsky.social](https://bsky.app/profile/webkitten.bsky.social)
+- 📫 Bluesky [@webkitten.bsky.social](https://bsky.app/profile/webkitten.northsky.social)
+([Northsky](https://northsky.app/profile/webkitten.northsky.social), [mu.social](https://mu.social/profile/webkitten.northsky.social))
 - 📫 Mastodon [@webkitten@tech.lgbt](https://tech.lgbt/@webkitten)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
 - 📫 Discord devilishseraph#8433
