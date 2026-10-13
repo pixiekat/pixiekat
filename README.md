@@ -33,7 +33,7 @@ World of Warcraft since 2006.
 
 ## Get in Touch
 
-- 📫 Bluesky [@webkitten.bsky.social](https://bsky.app/profile/webkitten.northsky.social)
+- 📫 Bluesky [@webkitten.northsky.social](https://bsky.app/profile/webkitten.northsky.social)
 ([Northsky](https://northsky.app/profile/webkitten.northsky.social), [mu.social](https://mu.social/profile/webkitten.northsky.social))
 - 📫 Mastodon [@webkitten@tech.lgbt](https://tech.lgbt/@webkitten)
 - 📫 Matrix [@cupcakezealot:matrix.org](https://matrix.to/#/@cupcakezealot:matrix.org)
